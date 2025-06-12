@@ -60,3 +60,31 @@ A smart AI-based chatbot system for **financial data understanding and decision-
 
 
 ![Screenshot (191)](https://github.com/user-attachments/assets/10ca4836-c7bd-4bc3-acb5-16cbfa5688ad)
+
+
+
+## Sample Prompts:
+
+"What is the net profit for the last quarter?"
+
+"Summarize expenses category-wise from this PDF"
+
+"How much GST was paid?"
+
+"Which months had negative cash flow?"
+
+
+
+
+
+## ⚙️ Setup Instructions
+## 🔧 Backend (Python)
+
+git clone https://github.com/reddymeghna/Retail-Finance-Advisor-RAG-Streamlit.git
+cd Retail-Finance-Advisor-RAG-Streamlit
+
+Add your Groq API key in .env:
+GROQ_API_KEY=your_groq_key
+
+Run the Streamlit app:
+streamlit run try2.py
