@@ -1,6 +1,13 @@
 ﻿# RetailLLM
 This chatbot application is used to provide small mart owners summary and financial details of their marts.
 
+
+![LLM: LLaMA 3](https://img.shields.io/badge/LLM-LLaMA%203-blueviolet?style=for-the-badge)
+![API: Groq](https://img.shields.io/badge/API-Groq-00DC82?style=for-the-badge&logo=groq)
+![RAG: FAISS](https://img.shields.io/badge/RAG-FAISS-lightgrey?style=for-the-badge)
+![Backend: PHP (SQL)](https://img.shields.io/badge/Backend-PHP%20(SQL)-8892BF?style=for-the-badge&logo=php&logoColor=white)
+
+
 # 💼 Retail Finance Advisor 🧠📊
 
 A smart AI-based chatbot system for **financial data understanding and decision-making** tailored to small retail store owners. This project uses **Retrieval-Augmented Generation (RAG)** powered by **LLaMA-3**, **FAISS similarity search**, and **Groq API** to extract and answer questions from user-uploaded PDFs (bank statements, reports, etc.).
